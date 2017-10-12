@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<head>
+<title> Reza Javidi, PhD </title>
+</head>
+
 <body>
 
 <img src="myface.jpg" style="max-width:100%;height:auto;">
