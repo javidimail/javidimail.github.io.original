@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to the webpage of Reza Javidi.
 
 [Link to another page](another-page).
 
