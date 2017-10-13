@@ -78,6 +78,10 @@
       <p><a href="#">Link</a></p>
  --> 
        <h2>Reza Javidi, Ph.D.</h2>
+=======
+
+<div class="container">
+  <h2>Reza Javidi, Ph.D.</h2>
   <p> Data Scientist | Computational Chemist | Chemical Engineer </p>   
   <img src="myface.jpg" class="img-circle" alt="Cinque Terre" width="200" height="200"> 
   <p>
