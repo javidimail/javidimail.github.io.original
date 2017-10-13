@@ -4,7 +4,7 @@ layout: default
 
 Welcome to the webpage of Reza Javidi.
 
-[View my resume](cv.html).
+[View my resume](cv.md).
 
 There should be whitespace between paragraphs.
 
